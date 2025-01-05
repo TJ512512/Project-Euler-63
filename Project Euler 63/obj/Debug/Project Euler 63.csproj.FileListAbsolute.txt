@@ -1,0 +1,7 @@
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\bin\Debug\Project Euler 63.exe.config
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\bin\Debug\Project Euler 63.exe
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\bin\Debug\Project Euler 63.pdb
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\obj\Debug\Project Euler 63.csproj.AssemblyReference.cache
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\obj\Debug\Project Euler 63.csproj.CoreCompileInputs.cache
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\obj\Debug\Project Euler 63.exe
+C:\Users\dayem\Downloads\Visual Basic\Homework\Project Euler 63\obj\Debug\Project Euler 63.pdb
